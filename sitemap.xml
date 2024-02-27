@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sjoon0305.github.io/2024_Data_Science_Project/about.html</loc>
-    <lastmod>2024-01-17T06:07:35.096Z</lastmod>
+    <loc>https://sjoon0305.github.io/2024_Data_Science_Project/posts/DS W4.html</loc>
+    <lastmod>2024-02-27T09:55:28.356Z</lastmod>
   </url>
   <url>
     <loc>https://sjoon0305.github.io/2024_Data_Science_Project/posts/DS W2.html</loc>
-    <lastmod>2024-01-30T10:19:45.712Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sjoon0305.github.io/2024_Data_Science_Project/posts/DS W1.html</loc>
-    <lastmod>2024-01-17T06:42:43.399Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sjoon0305.github.io/2024_Data_Science_Project/posts/DS W3.html</loc>
-    <lastmod>2024-01-30T11:54:47.120Z</lastmod>
+    <lastmod>2024-02-27T09:55:26.595Z</lastmod>
   </url>
   <url>
     <loc>https://sjoon0305.github.io/2024_Data_Science_Project/index.html</loc>
-    <lastmod>2024-01-17T06:20:38.121Z</lastmod>
+    <lastmod>2024-02-27T09:55:24.771Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjoon0305.github.io/2024_Data_Science_Project/about.html</loc>
+    <lastmod>2024-02-27T09:55:23.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjoon0305.github.io/2024_Data_Science_Project/posts/DS W1.html</loc>
+    <lastmod>2024-02-27T09:55:25.718Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjoon0305.github.io/2024_Data_Science_Project/posts/DS W3.html</loc>
+    <lastmod>2024-02-27T09:55:28.013Z</lastmod>
   </url>
 </urlset>
